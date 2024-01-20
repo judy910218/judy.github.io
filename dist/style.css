@@ -1,0 +1,16 @@
+body, a, a:hover {cursor: url(images/icons8-fishbone-60.png), auto;}
+
+a, a:hover {cursor: url(images/icons8-fishbone-602.png), auto;}
+
+.cursor-blink {
+  width: 54px;
+  height: 4px;
+  background-color: white;
+  display: inline-block;
+  margin-left: 5px; 
+  opacity: 0;
+  visibility: hidden;
+}
+# Utility Innovation
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/tiansial/pen/zYRbygb](https://codepen.io/tiansial/pen/zYRbygb).

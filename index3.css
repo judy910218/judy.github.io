@@ -1,0 +1,24 @@
+body, a, a:hover {cursor: url(images/icons8-fishbone-60.png), auto;}
+
+a, a:hover {cursor: url(images/icons8-fishbone-602.png), auto;}
+
+/* Go Top 按鈕 */
+#goTop {
+    position: fixed;
+    bottom: 10px;
+    /* 與下方的距離, 也可改為百分比, 即為距離螢幕下方的百分比 */
+    right: 15px;
+    /* 與右方的距離 */
+    width: 40px;
+    /* 按鈕原始寬度 */
+    height: 40px;
+    /* 按鈕原始高度 */
+    opacity: 1.0;
+    /* 按鈕原始透明度 */
+    z-index: 10;
+    cursor: pointer;
+    transition: all .1s;
+    /* 動畫效果 持續期間 */
+    -webkit-transition: all .1s;
+    -moz-transition: all .1s;
+}
